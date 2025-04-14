@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#00C853', // Bright green
+        primary: '#000f', // Bright green
         secondary: '#FF5722', // Orange
         neutral: {
           900: '#1A1A1A', // Charcoal
@@ -12,8 +12,8 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['Inter var', 'sans-serif'],
-        display: ['Space Grotesk', 'sans-serif'],
+        sans: ['Helveltica', 'sans-serif'],
+        display: ['Arial', 'sans-serif'],
       },
       animation: {
         'slide-up': 'slideUp 0.5s ease-out',
